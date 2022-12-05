@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5774904177:AAEMGsmvTafh0UTSeN_792ZQQwTuaxI05J0"
+    APP_ID = "4546803"
+    API_HASH = "08ad181fba3b05e1141db96175cab60e"
+    DATABASE_URL = "mongodb+srv://karnan:karnan@cluster0.5npe8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    SUDO_USERS = "5117106150 1833341159" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/telegram"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "746239575955-c4d2o1ahg4ts6ahm3a5lh5lp9g8m15h4.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
